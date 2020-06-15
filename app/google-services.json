@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "337063506802",
+    "firebase_url": "https://e-reader-f49d7.firebaseio.com",
+    "project_id": "e-reader-f49d7",
+    "storage_bucket": "e-reader-f49d7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:337063506802:android:b2051ac09d06afb2c863eb",
+        "android_client_info": {
+          "package_name": "com.e_reader"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "337063506802-iqiu3d1t52j9cfl5sarf25guams4a5qe.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCejEMH9Wbu5GTtOO4-DEWtB9h9NT4wlrk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "337063506802-iqiu3d1t52j9cfl5sarf25guams4a5qe.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

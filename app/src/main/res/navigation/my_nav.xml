@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/my_nav"
+    app:startDestination="@id/inicio2">
+
+    <fragment
+        android:id="@+id/configuracion"
+        android:name="com.e_reader.configuracion"
+        android:label="fragment_configuracion"
+        tools:layout="@layout/fragment_configuracion" />
+    <fragment
+        android:id="@+id/tienda"
+        android:name="com.e_reader.tienda"
+        android:label="fragment_tienda"
+        tools:layout="@layout/fragment_tienda" />
+    <fragment
+        android:id="@+id/inicio2"
+        android:name="com.e_reader.Inicio"
+        android:label="fragment_inicio"
+        tools:layout="@layout/fragment_inicio" />
+</navigation>
